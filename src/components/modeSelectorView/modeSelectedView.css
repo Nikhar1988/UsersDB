@@ -1,0 +1,30 @@
+.wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+}
+
+.choiseDate {
+    padding-top: 10px;
+    display: flex;
+    justify-content:space-around;
+    
+}
+
+button {
+    margin-left: 2px;
+}
+
+.content {
+    height: 165px;
+    width: 500px;
+    margin-top: 100px;
+    border:2px solid black;
+    padding-top: 30px;
+    border-radius: 20px;
+    
+}
